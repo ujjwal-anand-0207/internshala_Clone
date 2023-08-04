@@ -1,3 +1,4 @@
 # Internshala_Clone
 ```
-Created Clone of internshala frontend using html css and javascript```
+Created Clone of Internshala frontend using HTML, CSS, and Javascript
+```
